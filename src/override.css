@@ -1,0 +1,7 @@
+.vjs-big-play-button {
+  display: none !important;
+}
+
+.video-js button {
+  outline: none;
+}
