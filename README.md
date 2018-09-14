@@ -20,6 +20,4 @@ class App extends React.Component {
 }
 ```
 
-[在线DEMO](https://codesandbox.io/s/0qk6qkx1ll)
-
-[在线文档](https://vmo-fed.github.io/react-tab/doc/#/video-player/doc/video-player)
+[在线文档](https://vmo-fed.github.io/video-player/doc/#/video-player/doc/video-player)
