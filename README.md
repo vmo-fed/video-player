@@ -10,6 +10,7 @@ npm i @vmo-fed/video-player -S
 
 ```jsx
 import VideoPlayer  from 'video-player';
+import 'video-player/src/override.css';
 
 class App extends React.Component {
   render() {
