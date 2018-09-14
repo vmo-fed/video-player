@@ -1,4 +1,4 @@
-# react-tab
+# video-player
 
 ### 安装
 
