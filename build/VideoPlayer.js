@@ -23,6 +23,9 @@ class VideoPlayer extends Component {
   componentDidMount() {
     // instantiate Video.js
     this.player = videojs(this.videoNode, {
+      flash: {
+        swf: require('./video-js.swf')
+      },
       sources: [{
         type: "video/flv",
         src: this.props.src
